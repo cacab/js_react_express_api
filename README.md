@@ -1,7 +1,9 @@
-cd server
-node app
+`cd server`
+
+`node app`
 
 
 
-cd client 
-npm start
+`cd client `
+
+`npm start`
