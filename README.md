@@ -1,1 +1,7 @@
-# js_react_express_api
+cd server
+node app
+
+
+
+cd client 
+npm start
