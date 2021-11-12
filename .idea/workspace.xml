@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d674cc4-8156-4d01-af24-1202b644f4fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
     </list>
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636564484947</updated>
       <workItem from="1636564486098" duration="8246000" />
-      <workItem from="1636730394836" duration="6962000" />
+      <workItem from="1636730394836" duration="7230000" />
     </task>
     <servers />
   </component>
